@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FEAR.play.hosting",
-    "port": 60620,
+    "ip": "157.180.102.182",
+    "port": 29633,
     "version": "",
     "try-creative": false
   },
